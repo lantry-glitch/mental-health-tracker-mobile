@@ -41,7 +41,6 @@ class ItemCard extends StatelessWidget {
                   builder: (context) => const MoodEntryFormPage(),
                 ),
               );
-              // TODO: Gunakan Navigator.push untuk melakukan navigasi ke MaterialPageRoute yang mencakup TrackerFormPage.
             }
         },
         // Container untuk menyimpan Icon dan Text
